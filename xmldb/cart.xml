@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
 <cart>
-    
     <product_item>
         <id_product>20</id_product>
         <quantity>20</quantity>
@@ -17,4 +16,4 @@
             <Currency>EU</Currency>
         </price_item>
     </product_item>
-</cart>
+<product_items><id_product>pr</id_product><quantity>1</quantity></product_items><product_items><id_product>pr</id_product><quantity>1</quantity></product_items><product_items><id_product>pr</id_product><quantity>1</quantity></product_items></cart>

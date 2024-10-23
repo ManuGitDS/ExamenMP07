@@ -1,6 +1,9 @@
 <?php
 
 echo "<br>INIT EXECUTION" . "<br><br>";
+
+echo "GO TO:";
+
 include_once("com/cart/cart.php");
 include_once("com/users/users.php");
 // 
@@ -8,6 +11,7 @@ include_once("com/users/users.php");
 // removeItem(4);
 //http://localhost:40080/ExamenMP07_2.0/main.php?funcion=hola&otro=holaotravez
 $function = $_GET['function'];
+
 
 switch ($function) {
         
